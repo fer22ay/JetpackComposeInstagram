@@ -1,6 +1,4 @@
 
-v
-Fapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/LoginScreen.kt,8\d\8d4e73075ba64541b49626b4dcaf67fbec1b2b62
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 7
@@ -42,3 +40,25 @@ P
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+
+Oapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/login/ui/LoginScreen.kt,9\4\94c93f3fa3a718992eec8fc4d9924bb6f26e1ff6
+‚
+Rapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/login/ui/LoginViewModel.kt,a\2\a2df984c085d388b318c5840f642ec26551d86bf
+†
+Vapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/core/network/RetrofitHelper.kt,3\8\382a07702dd0a0a956d524402d15815aa2e56b94
+‰
+Yapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/login/data/network/LoginClient.kt,a\b\aba54d7a8832fc155f4f77dbd4c8093807f23c18
+”
+dapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/login/data/network/response/LoginResponse.kt,b\a\baed8f51c616a9dfeb55069c5f62bf40bd320dce
+Š
+Zapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/login/data/network/LoginService.kt,8\f\8f17cdcdb27c40db04a8c453d598a44ccde6b73c
+…
+Uapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/login/data/LoginRepository.kt,d\b\db6daf69dc5fe12bbb4e3c7530f06721094f2888
+„
+Tapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/login/domain/LoginUseCase.kt,2\4\24ef9ff3d01b52132330db990375690d91ee63de
+|
+Lapp/src/main/java/com/yambrosio/jetpackcomposeinstagram/JetpackComposeApp.kt,9\0\90157018cdb04f5c2305733bfebbd7cc92939cef
+€
+Papp/src/main/java/com/yambrosio/jetpackcomposeinstagram/core/di/NetworkModule.kt,a\1\a1ece60df8251fc84506a5b09dc71630c5792fe0
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
